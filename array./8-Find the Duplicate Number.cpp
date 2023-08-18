@@ -15,7 +15,8 @@ public:
         }
         return -1;
         */
-     
+
+	//Tc: O(n)
     int slow = arr[0];
 	int fast = arr[0];
 
